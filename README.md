@@ -5,9 +5,9 @@ https://konsole257.github.io/ViteVueImagemin/
 
 ## Use Packages
 
-npm create vite@latest
->Vue
->Typescript
+npm create vite@latest  
+`>` Vue  
+`>` Typescript  
 
 npm i -D  
 imagemin  
