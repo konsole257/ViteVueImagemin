@@ -1,4 +1,4 @@
-# Vite + ImageMin + Webp
+# Vite + Vue3 + TypeScript + ImageMin + Webp
 
 - URL  
 https://konsole257.github.io/ViteVueImagemin/
@@ -6,6 +6,8 @@ https://konsole257.github.io/ViteVueImagemin/
 ## Use Packages
 
 npm create vite@latest
+>Vue
+>Typescript
 
 npm i -D  
 imagemin  
