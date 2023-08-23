@@ -1,4 +1,4 @@
-# Vite + Vue3 + TypeScript + ImageMin + Webp
+# Vite + ImageMin + Webp
 
 - URL  
 https://konsole257.github.io/ViteVueImagemin/
