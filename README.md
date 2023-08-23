@@ -1,4 +1,4 @@
 # ImageMin + Webp
 
-- Link 
+- URL
 https://konsole257.github.io/ViteVueImagemin/
